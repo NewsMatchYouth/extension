@@ -2,7 +2,7 @@ document.getElementById("check").addEventListener("click", async () => {
     const text = document.getElementById("article").value;
     
     try {
-      const response = await fetch("https://abc1234.ngrok.io/predict", {  // ※ここを実際のAPI URLに変更
+      const response = await fetch("https://extension-5qk9.onrender.com/predict", {  // ※ここを実際のAPI URLに変更
         method: "POST",
         headers: {
           "Content-Type": "application/json"

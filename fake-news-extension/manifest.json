@@ -5,10 +5,9 @@
     "description": "Check if an article is fake.",
     "permissions": ["activeTab"],
     "host_permissions": [
-      "https://*.ngrok.io/*"
+      "https://extension-5qk9.onrender.com/*"
     ],
     "action": {
-      "default_popup": "popup.html",
-      "default_icon": "icon.png"
+      "default_popup": "popup.html"
     }
   }
