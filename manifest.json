@@ -4,7 +4,7 @@
     "version": "1.0", 
     "default_locale": "en",
     "description": "__MSG_appDescription__",
-    "permissions": ["activeTab"],
+    "permissions": [],
     "host_permissions": [
       "https://extension-5qk9.onrender.com/*"
     ],
