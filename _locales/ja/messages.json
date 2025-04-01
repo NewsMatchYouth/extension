@@ -1,0 +1,9 @@
+{
+    "appName": { "message": "フェイクニュースチェッカー" },
+    "appDescription": { "message": "フェイクニュースの記事を検出します。" },
+    "heading": { "message": "記事のテキストを入力してください" },
+    "placeholder": { "message": "ここに記事テキストを貼り付け" },
+    "button": { "message": "判定する" },
+    "resultPrefix": { "message": "判定結果: " },
+  "errorMessage": { "message": "エラーが発生しました。" }
+  }

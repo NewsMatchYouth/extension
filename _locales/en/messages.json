@@ -1,0 +1,9 @@
+{
+    "appName": { "message": "Fake News Checker" },
+    "appDescription": { "message": "Detects fake news articles." },
+    "heading": { "message": "Please enter the article text" },
+    "placeholder": { "message": "Paste the article text here" },
+    "button": { "message": "Check" },
+    "resultPrefix": { "message": "Result: " },
+  "errorMessage": { "message": "An error occurred." }
+  }
