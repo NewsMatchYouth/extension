@@ -1,0 +1,7 @@
+Flask
+pyngrok
+gunicorn
+<<<<<<< HEAD: requirements.txt
+scikit-learn
+=======
+>>>>>>> 69446758335daf9fb658099acd2bdc05aa553df4:requirements.txt
